@@ -14,7 +14,55 @@
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Project Management Tools
+
+Proficiency in project management tools such as Microsoft Project, Jira, Asana, or Trello for planning, scheduling, and tracking project progress.
+Agile Methodologies
+<br> <br>
+Experience in Agile methodologies such as Scrum or Kanban, including sprint planning, backlog grooming, and facilitating daily stand-up meetings.
+Risk Management
+<br> <br>
+Ability to identify, assess, and mitigate project risks, utilizing risk management techniques and tools to ensure project success.
+Budgeting and Resource Allocation
+<br> <br>
+Competence in budget management and resource allocation, including forecasting, tracking expenditures, and optimizing resource utilization.
+Quality Assurance
+<br> <br>
+Understanding of quality assurance processes and methodologies, ensuring deliverables meet quality standards and client requirements.
+Stakeholder Management
+<br> <br>
+Skill in stakeholder identification, analysis, and engagement, maintaining effective communication and managing expectations throughout the project lifecycle.
+Change Management
+<br> <br>
+Proficiency in change management processes, facilitating smooth transitions and minimizing disruptions during project implementation.
+Contract Negotiation
+<br> <br>
+Experience in contract negotiation and vendor management, ensuring favorable terms and conditions while adhering to project budget and timeline.
+Developer
+Programming Languages
+<br> <br>
+Proficiency in programming languages such as Java, Python, JavaScript, C#, or Ruby, with experience in developing scalable and efficient software solutions.
+Web Development
+<br> <br>
+Competence in web development technologies such as HTML5, CSS3, and JavaScript frameworks like React.js or AngularJS, for building responsive and interactive web applications.
+Database Management
+<br> <br>
+Experience in database management systems such as MySQL, PostgreSQL, MongoDB, or Oracle, including database design, querying, and optimization.
+Version Control
+<br> <br>
+Familiarity with version control systems such as Git or SVN, for managing codebase changes, collaborating with team members, and ensuring code integrity.
+Software Testing
+<br> <br>
+Knowledge of software testing methodologies such as unit testing, integration testing, and end-to-end testing, using tools like JUnit, Selenium, or Jest.
+Deployment and DevOps
+<br> <br>
+Understanding of deployment processes and DevOps practices, including continuous integration/continuous deployment (CI/CD) pipelines and automation tools like Jenkins or Docker.
+Cloud Computing
+<br> <br>
+Familiarity with cloud computing platforms such as AWS, Azure, or Google Cloud Platform, including infrastructure as code (IaC) concepts and services like AWS Lambda or Azure Functions.
+Mobile Development
+<br> <br>
+Experience in mobile application development for iOS or Android platforms, using frameworks such as Swift, Kotlin, or React Native..<br> "
                     },
                     "soft-skills": {
                         "title": "soft-skills",
@@ -22,34 +70,34 @@
 
 Proven ability to lead cross-functional teams towards common goals, fostering collaboration and motivation among team members.
 Communication & Stakeholder Management
-
+<br> <br>
 Excellent verbal and written communication skills, adept at conveying complex technical concepts clearly to stakeholders at all levels.
 Skilled in building and maintaining relationships with stakeholders, understanding their needs, and ensuring alignment with project objectives.
 Problem-solving & Adaptability
-
+<br> <br>
 Strong problem-solving skills, capable of identifying and addressing technical challenges swiftly and effectively.
 Flexible and adaptable in dynamic environments, able to adjust strategies and priorities to accommodate changing project requirements.
 Organization & Time Management
-
+<br> <br>
 Strong organizational skills, capable of managing multiple tasks and projects simultaneously, ensuring deadlines are met and resources are allocated efficiently.
 Efficient time management skills, adept at prioritizing tasks and allocating resources effectively to meet project milestones and deliverables.
 Negotiation & Empathy
-
+<br> <br>
 Proficient in negotiation techniques, capable of resolving conflicts and reaching mutually beneficial agreements among team members and stakeholders.
 Ability to understand the perspectives and concerns of team members and stakeholders, fostering a supportive and inclusive work environment.
 Risk Management & Resilience
-
+<br> <br>
 Experienced in identifying and mitigating project risks, implementing proactive measures to minimize potential impacts on project outcomes.
 Resilience in handling setbacks and challenges during the development process, maintaining a positive attitude and finding solutions to overcome obstacles.
 Continuous Learning & Creativity
-
+<br> <br>
 Commitment to continuous learning and skill development, staying updated with the latest technologies and best practices in software development.
 Creative thinking abilities, capable of developing innovative solutions to complex technical problems and optimizing code for efficiency and performance.
 Attention to Detail & User Experience
-
+<br> <br>
 Meticulous attention to detail, ensuring code quality, documentation accuracy, and overall product excellence.
 Understanding of user experience principles, ensuring that developed solutions are intuitive, user-friendly, and aligned with end-user needs and preferences.
-."
+.<br>"
                     }
                 }
             },
