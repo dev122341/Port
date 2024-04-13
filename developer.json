@@ -74,6 +74,12 @@
                 "url": "https://github.com/",
                 "user": "username"
             },
+            
+            "facebook": {
+                "title": "Facebook profile",
+                "url": "https://facebook.com/",
+                "user": "username"
+            },
          
             "twitter": {
                 "title": "Twitter account",
